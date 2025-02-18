@@ -1,0 +1,5 @@
+/*
+!*.ipynb
+
+# Allow hidden .gitignore file itself
+!.gitignore
